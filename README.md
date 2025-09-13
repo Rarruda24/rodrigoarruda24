@@ -3,6 +3,7 @@
 <img src="assets/octocat-1757725750888.png" alt="Minha imagem" width="250" align="right">
 
 
+
 ### 🖥️ Explorando o mundo da tecnologia  
 Estudando e aplicando conhecimentos para criar soluções modernas, funcionais e bem organizadas. Sempre em busca de aprender mais e evoluir! 🚀
 
