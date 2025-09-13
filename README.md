@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rodrigo Arruda!
 
-<img src="https://github.com/caique-dev-01/caique-dev-01/blob/main/octocat-1746813890362.png" alt="Minha imagem" width="250" align="right">
+<img src="Rodrigo.aasilva3/Downloads/octocat-1757725750888.png" alt="Minha imagem" width="250" align="right">
 
 
 ### 🖥️ Explorando o mundo da tecnologia  
