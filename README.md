@@ -8,13 +8,13 @@ Estudando **SQL**, **PHP**, **JavaScript**, **CSS** e **HTML** para criar interf
 ---
 
 ### 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-caique-1ab79b232)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcaique825@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-arruda-1ab79b232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoavvelino24@gmail.com)
 
 ---
 
 ### 🌟 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=caique-dev-01&show_icons=true&theme=radical)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rodrigo-dev-24show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-dev-01&layout=compact&theme=radical)
 
 ---
