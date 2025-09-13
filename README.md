@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rodrigo Arruda!
 
-<img src="https://github.com/rodrigo-arruda/meu-repo/raw/main/assets/meu-personagem.png" alt="Meu personagem" width="250" align="right">
+<img src="https://github.com/caique-dev-01/caique-dev-01/blob/main/octocat-1746813890362.png" alt="Minha imagem" width="250" align="right">
 
 
 
