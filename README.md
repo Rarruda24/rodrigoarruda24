@@ -11,13 +11,13 @@ Estudando e aplicando conhecimentos para criar soluções modernas, funcionais e
 ---
 
 ### 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-arruda)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.arruda@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rodrig](https://br.linkedin.com/in/rodrigo-arruda-b04aa4281))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoavvelino24@email.com)
 
 ---
 
 ### 🌟 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rodrigo-arruda&show_icons=true&theme=radical)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rarruda24&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-arruda&layout=compact&theme=radical)
 
 ---
